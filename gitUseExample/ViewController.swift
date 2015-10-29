@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("Tryin to commit tis")
         print("this is a nother change")
+        print("this is getting old")
         
     }
 

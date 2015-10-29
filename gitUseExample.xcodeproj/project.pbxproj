@@ -12,6 +12,7 @@
 		A03166581BE25BFE00CF1C3F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03166561BE25BFE00CF1C3F /* Main.storyboard */; };
 		A031665A1BE25BFF00CF1C3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A03166591BE25BFF00CF1C3F /* Assets.xcassets */; };
 		A031665D1BE25BFF00CF1C3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A031665B1BE25BFF00CF1C3F /* LaunchScreen.storyboard */; };
+		A03166651BE2E81200CF1C3F /* Screen Shot 2015-10-25 at 3.24.15 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = A03166641BE2E81200CF1C3F /* Screen Shot 2015-10-25 at 3.24.15 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A03166591BE25BFF00CF1C3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A031665C1BE25BFF00CF1C3F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A031665E1BE25BFF00CF1C3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A03166641BE2E81200CF1C3F /* Screen Shot 2015-10-25 at 3.24.15 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2015-10-25 at 3.24.15 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A03166561BE25BFE00CF1C3F /* Main.storyboard */,
 				A03166591BE25BFF00CF1C3F /* Assets.xcassets */,
 				A031665B1BE25BFF00CF1C3F /* LaunchScreen.storyboard */,
+				A03166641BE2E81200CF1C3F /* Screen Shot 2015-10-25 at 3.24.15 PM.png */,
 				A031665E1BE25BFF00CF1C3F /* Info.plist */,
 			);
 			path = gitUseExample;
@@ -121,6 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A03166651BE2E81200CF1C3F /* Screen Shot 2015-10-25 at 3.24.15 PM.png in Resources */,
 				A031665D1BE25BFF00CF1C3F /* LaunchScreen.storyboard in Resources */,
 				A031665A1BE25BFF00CF1C3F /* Assets.xcassets in Resources */,
 				A03166581BE25BFE00CF1C3F /* Main.storyboard in Resources */,
