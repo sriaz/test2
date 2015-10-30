@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("new branch")
         print("but we aint doing this again?")
         print("eyo")
+        print("this is test 2 branch")
         
     }
 
